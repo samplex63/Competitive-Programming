@@ -1,0 +1,42 @@
+10
+jcfdh 1000000
+chk 1000000
+kga 1000000
+beh 1000000
+geg 1000000
+haj 1000000
+agah 1000000
+dhk 1000000
+hj 1000000
+db 1000000
+5
+1000000 1000000 1000000 1000000 1000000
+db
+
+7
+teama 100
+teamb 90
+teamc 80
+teamd 70
+teame 50
+teamf 40
+teamg 30
+6
+30 35 30 30 30 20
+teame
+
+3
+teama 10
+teamb 20
+teamc 40
+2
+10 20
+teama
+
+2
+teama 10
+teamb 10
+2
+10 10
+teamb
+

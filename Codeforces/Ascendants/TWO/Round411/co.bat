@@ -1,0 +1,1 @@
+g++ %1.cpp -O2 -Wall -Wconversion -Wlogical-op -Wextra -Wshadow -Wextra -pedantic -Wfloat-equal -Wformat=2 -Wl,--stack=268435456 -Wno-unused-result -DLOCAL -std=c++17

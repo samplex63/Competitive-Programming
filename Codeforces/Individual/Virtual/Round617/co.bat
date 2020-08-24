@@ -1,0 +1,1 @@
+g++ %1 -O2 -Wall -Wextra -Wshadow -Wextra -pedantic -Wfloat-equal -Wformat=2 -Wno-unused-result -DLOCAL -std=gnu++17
